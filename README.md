@@ -3,3 +3,8 @@ This is my first Git learning repository.
 
 ## Introduction
 I am learning Git step by step
+
+## What I Learned
+- How to create commits
+-How to push to GitHub using SSH
+
