@@ -6,7 +6,8 @@ I am learning Git step by step
 
 ## What I Learned
 - How to create commits
+- How to use branches
 -How to push to GitHub using SSH
 -How to pull chanes from Github
-Add pull note
+
 
